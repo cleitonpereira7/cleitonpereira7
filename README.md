@@ -109,11 +109,6 @@ Um site responsivo construído para praticar **HTML e CSS**.
   />
 </p>
 
-<!--
-  Animação da cobrinha (opcional) — requer o workflow em
-  .github/workflows/snake.yml habilitado neste repositório.
-  Depois de rodar uma vez, descomente o bloco abaixo.
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -128,7 +123,6 @@ Um site responsivo construído para praticar **HTML e CSS**.
     src="https://raw.githubusercontent.com/cleitonpereira7/cleitonpereira7/output/github-contribution-grid-snake.svg"
   />
 </picture>
--->
 
 ---
 
