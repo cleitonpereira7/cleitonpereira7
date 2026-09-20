@@ -26,11 +26,11 @@ Sou desenvolvedor, baseado em Chapecó, Brasil, atuando com **.NET / C# / ASP.NE
 
 Meu foco está em:
 
-* Construir APIs e serviços de backend com ASP.NET Core
-* Desenvolver interfaces web com React, Angular e Blazor
-* Criar aplicativos mobile multiplataforma com React Native
-* Modelar dados com SQL Server e MongoDB
-* Aprender e aplicar boas práticas de arquitetura e engenharia de software
+* Desenvolvimento de aplicações Blazor completas, do conceito à produção.
+* Projetar arquiteturas de aplicativos limpas, escaláveis ​​e de fácil manutenção.
+* Desenvolvimento de APIs e integrações de backend confiáveis
+* Modernizando aplicações .NET existentes
+* Melhorar a implementação, a automação e a prontidão para a produção.
 
 <!-- Edite esta seção livremente com seu foco atual (ex.: "aberto a oportunidades", "freelance", etc.) -->
 
@@ -86,10 +86,16 @@ Um site responsivo construído para praticar **HTML e CSS**.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ---
