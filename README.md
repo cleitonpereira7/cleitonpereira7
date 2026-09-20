@@ -112,7 +112,7 @@ Um site responsivo construído para praticar **HTML e CSS**.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/cleitonpereira7/cleitonpereira7/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/cleitonpereira7/cleitonpereira7/main/assets/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
