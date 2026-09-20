@@ -107,11 +107,13 @@ Um site responsivo construído para praticar **HTML e CSS**.
 <p align="center">
   <img
     width="49%"
+    height="195"
     src="https://github-stats-extended.vercel.app/api?username=cleitonpereira7&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="Estatísticas do GitHub do Cleiton"
   />
   <img
     width="49%"
+    height="195"
     src="https://streak-stats.demolab.com/?user=cleitonpereira7&hide_border=true"
     alt="Streak de contribuições do Cleiton"
   />
