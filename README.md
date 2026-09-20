@@ -22,7 +22,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor de software independente com mais de **10 anos de experiência** em engenharia de software e sistemas, especializado no desenvolvimento de aplicações modernas em **.NET e Blazor**. Baseado em Chapecó, Brasil, também atuo com **React, React Native, Angular e TypeScript** no front-end e mobile, com **SQL Server**, **PostgreSQL** e **MongoDB** para dados.
+Sou um desenvolvedor de software com mais de **10 anos de experiência** em engenharia de software e sistemas, especializado no desenvolvimento de aplicações modernas em **.NET e Blazor**. Também atuo com **React, React Native, Angular e TypeScript** no front-end e mobile, com **SQL Server**, **PostgreSQL** e **MongoDB** para dados.
 
 Meu foco está em:
 
